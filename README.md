@@ -1,0 +1,1 @@
+This machine learning model predicts laptop prices based on features like processor, RAM, storage, screen size, and brand. It uses a dataset to identify patterns and correlations. The model's accuracy was evaluated using metrics like mean squared error. Potential applications include assisting consumers, retailers, and manufacturers.
